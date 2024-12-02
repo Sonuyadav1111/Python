@@ -1,3 +1,2 @@
 This is a repository which includes my python development internship tasks by order...
 <br>
-Author-Shreya Tyagi
